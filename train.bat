@@ -1,0 +1,1 @@
+python yolov5/train.py --img 640 --batch 16 --epochs 50 --data dataset/data.yaml --weights yolov5n.pt --cache --project out
